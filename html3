@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first portfolio</title>
+</head>
+<body>
+    
+    <header>
+           <h1> sCR7</h1> 
+        <h2>About us:</h2>
+        <nav>
+            <a href="home">home</a>,
+            <a href="work">work</a>,
+            <a href="resume">resume</a>,
+            <a href="contact">contact</a>,
+        </nav>                                                <hr>
+    </header>
+    <div>
+ <center>
+       <h1>cr7</h1> 
+           <nav>
+               <a href="https://share.google/fFdrWbEipBSCId6x3" target="_blank"><h4>the attacker's nightmare</h4></a>
+           </nav> 
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrYbaFIe38moJ9-_gQBDQ5GF1YHRPKeK1gvvCxSh-pg&s=10" alt="no internet :/">
+                        <p>why is he the best attacker of his generation ?</p>
+ </center>
+    </div>
+
+   
+<main>
+
+
+    <!--first look-->
+
+<form action="">
+<ol>
+    <li><h3>His record :</h3>
+        <dt>as an attacker, . But his known for his exceptionnal dribbles skills, he participated at 10 seasons with Real Madrid FC between 2009 and 2018 and won 4champions league, 3 liga tournaments and 2 spanish cup.</dt>
+        <dt>He is made known because of his speed despite his template, his duels and his capacity of making the greatest attackers of his generation like drogba, messi, zlatan and diego costa</dt>
+
+    
+
+        <dt>At the time, Real Madrid has one of the best attacker on comparison with other clubs </dt> <br>
+    <li><h3>Highligher of his best moments :</h3></li>
+        <dt>He was named <b>Man of the Match</b> in the world cup 2018  against spain after portugal </dt>
+        <dt>He delivered an outstanding attacking performance he scored a hat-trick.</dt>
+
+        
+
+        <li><h3>La Decima (2014 champions league) :</h3></li>
+        <dt>He helped madrid win their historic 10th Champions League title</dt>
+        <dt>He also helped the clun winning multiple Champions league trophies</dt>
+
+    
+
+        <li><h3>Champions League titles in 2016 and 2017 :</h3></li>
+        <dt>CR7 was part of one of the strongest Real Madrid teams ever.</dt>
+        <dt>He helped the club winning multiple champions league trophies.</dt>
+    
+    <li>
+</ol>
+
+    <!--===============================================================================================-->
+    <!--===============================================================================================-->
+
+    <ul style="list-style-type: disc;">
+       <li>Extremely strong power shot</li>
+       <li>Fasr for a attacker</li>
+       <li>excellent in the air</li>
+       <li>Fearless in big matches</li>
+       <li>A natural leader and competitor</li>
+    </ul>
+</main>
+<footer>
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyhlT3nbRftlg65UMmZiYL-kuhiQS0aQGJdha3XFLIQ&s=10" alt="no internet">
+    </center>
+</footer>
+
+</form>
+</body>
+</html>

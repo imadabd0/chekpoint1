@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+ <html lang="en"> 
+
+ <link rel="stylesheet" href="style.css">
+
+<head>    
+
+<meta charset="UTF-8">  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+
+ <title> gargoti menu</title> </head>
+
+ <body>
+    
+<header>
+  
+  <h1>Delicious Bites Menu</h1>            
+ 
+    <nav>
+      <ul>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="contact.html">Contact</a>
+      </ul>
+    </nav>                                            
+
+          <hr id="line">
+          <hr id="line2">
+  </header>                       
+<div>
+  <form action="" id="menu-form">
+
+ 
+
+    <h2>Appetizers</h2>  
+
+  <ul>
+    <li><h3>bourek</h3></li>
+           <dt>algerian traditional crispy rolls with meat and cheese inside</dt>
+    <li><h3>karantika</h3></li>
+           <dt>A creamy, warm chickpea tart</dt>
+    
+           
+  </ul>    
+         
+
+  
+
+    <!-- Add two more appetizer items with descriptions --> 
+
+
+  <h2>Main Courses</h2> 
+  <ul>     
+    <li><h3>Couscous </h3></li>    
+       <dt>A traditional North African dish with steamed semolina, vegetables, and a choice of meats.</dt>   
+    <li><h3>Tajine</h3></li>  
+       <dt>A slow-cooked stew with meat, vegetables, and aromatic spices, served in a clay pot.</dt>    
+    <li><h3>Rechta</h3></li>
+       <dt>A traditional North African dish with steamed semolina, vegetables, and a choice of meats.</dt>
+   </li>
+
+   <!-- Add two more main course items with descriptions --> 
+   
+
+ <h2>Desserts</h2>  
+
+  <ul>     
+
+      
+ <li><h3>Makrout</h3></li>    
+       <dt>A sweet pastry made with semolina, dates, and honey, often flavored with orange blossom water.</dt>
+  <li><h3>Zlabia</h3></li>    
+       <dt>A deep-fried sweet soaked in syrup, often enjoyed during festive occasions.</dt>
+  <li><h3>Kalb el louz</h3></li>    
+       <dt>A traditional Algerian dessert made from semolina, almonds, and flavored with orange blossom water.</dt>
+       
+
+    <!-- Add two more dessert items with descriptions -->  
+
+  </ul> 
+
+   <p><a href="contact.html">Contact us for reservations</a></p> 
+
+</div>
+</form>
+
+</body>
+
+ </html>
